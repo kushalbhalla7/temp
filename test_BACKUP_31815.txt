@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-from base branch
-from main branch
-||||||| 70a10b3
-=======
-from base branch
-from feature branch
->>>>>>> feature
