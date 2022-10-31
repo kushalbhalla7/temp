@@ -1,0 +1,6 @@
+from base branch
+<<<<<<< HEAD
+from main branch
+=======
+from feature branch
+>>>>>>> feature
